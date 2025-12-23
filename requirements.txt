@@ -1,0 +1,6 @@
+selenium
+sqlalchemy
+numpy
+openai
+python-dotenv
+scikit-learn

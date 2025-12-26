@@ -67,14 +67,4 @@ You can view the results (jobs found, match scores, generated letters) using:
 
 ---
 
-## 📚 What I Learned
-
-Building this project helped me understand:
-- **Project Structure**: How to organize code into modules (src folder) using the **MVC pattern**.
-- **Web Scraping**: Handling DOM elements, scrolling, and implementing random delays with Selenium.
-- **NLP Basics**: How to turn text into vectors (**TF-IDF**) to calculate semantic similarity mathematically.
-- **Data Persistence**: Using an **ORM (SQLAlchemy)** to manage application state and store results efficiently.
-
----
-
 **Created by Rayan Saadani Hassani**

@@ -1,6 +1,6 @@
+undetected-chromedriver
 selenium
+webdriver-manager
 sqlalchemy
 numpy
-openai
-python-dotenv
 scikit-learn
